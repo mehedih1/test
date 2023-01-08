@@ -1,0 +1,256 @@
+*{
+    margin: 0;
+    font-family: 'work sans';
+}
+.banner{
+   background-image: url(../images/banner/banner1.png);
+   background-repeat: no-repeat;
+   background-position: center;
+   width: 100%;
+   height: 100vh;
+  
+
+}
+.slider-content{
+   text-align: right;
+   padding-right: 230px;
+}
+
+.banner h1{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 70px;
+    width: 550px;
+    position: relative;
+    left: 850px;
+    margin-bottom: 30px;
+    color: #444343;
+    padding-top: 150px;
+    
+}
+.banner p{
+
+    width: 400px;
+    height: 78;
+    position: relative;
+    left: 998px;
+    text-align: right;
+    font-weight: 700px;
+    margin-bottom: 30px;
+
+}
+.banner button{
+    position: relative;
+    left: 128px;
+    width: 148px;
+    padding: 20px 0;
+    font-size: 25px;
+    background-color: tomato;
+    border-style: none;
+    color: aliceblue;
+    font-weight: 600;
+}
+
+/* second section */
+
+.img-section p{
+    width: 330px;
+    padding: 15px;
+    height: 100px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    
+}
+.person-img{
+    padding-left: 201px;
+}
+.img-section h1{
+    padding: 15px;
+    width: 180px;
+    line-height: 40px;
+    font-weight: 700;
+    font-weight: 45px;
+    color: #151414;
+    margin-top: 10px;
+   
+}
+
+.right{
+    position: relative;
+    left: 200px;
+    padding-top: 200px;
+}
+.img-section{
+    display: flex;
+    padding-top: 250px;
+    padding-bottom: 100px;
+   
+    
+}
+.img-section .png{
+    width: 3%;
+}
+.right h5{
+    left: 50px;
+    padding: 6px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 5px;
+    color: #444343;
+}
+
+/* my plans section */
+
+.section-title{
+    text-align: center;
+    height: 50px;
+    left: 800px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-bottom: 50px;
+}
+
+.plans-container{
+    display: flex;
+    gap: 10px;
+    padding-left: 300px;
+}
+.plans-title{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin: 20px;
+    
+}
+.plans-description{
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+}
+.my-plans{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.transperent{
+    background: url(../images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    
+    
+   
+}
+.transperent{
+    opacity: 100%;
+    
+}
+.opacity{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 175px;
+    top: 2188px;
+    
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+}
+
+.headding-trans{
+    left: 300px;
+    width: 500px;
+    position: relative;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 45px;
+    padding-top: 250px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+.btn-trans{
+    margin-left: 300px;
+    width: 150px;
+    height: 64px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #ff8000;
+    border: 0;
+    padding: 18px 35px;
+    
+}
+#btn-trans{
+    opacity: 100%;
+    padding: 20px;
+    background-color: white;
+    width: 120px;
+    margin-left: 300px;
+    border-style: none;
+
+}
+/* contact info */
+.contact{
+    display: flex;
+    background: #151414;
+    border: 0;
+    text-decoration: none;
+
+}
+.contact-content{
+    width: 300px;
+    padding:150px;
+    color: #ffffff;
+    
+    
+}
+.contact-content h2{
+    margin:0 0 20px;
+}
+.contact-content p{
+    margin:0 0 20px;
+}
+.contact-content img{
+    gap: 20px;
+    padding: 20px 20px 20px 0;
+    width: 10%;
+}
+.contact-content h5{
+    margin:0 0 10px;
+}
+.submit{
+    padding: 150px;
+    margin-left: 280px;
+
+}
+.submit h4{
+    width: 123px;
+    height: 29px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    padding: 20px;
+}
+.submit input{
+    width: 300px;
+    height: 64px;
+    font-size: 20px;
+    margin-left: 21px;
+}
+.submit button{
+    width: 150px;
+    height: 64px;
+    background: #FFFFFF;
+    color: #ff6347;
+    padding: 10px;
+    margin: 20px 0 0 20px;
+    
+    font-size: 25px;
+}
