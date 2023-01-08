@@ -64,7 +64,7 @@
     
 }
 .person-img{
-    padding-left: 201px;
+    padding-left: 200px;
 }
 .img-section h1{
     padding: 15px;
@@ -99,6 +99,7 @@
     font-size: 16px;
     line-height: 5px;
     color: #444343;
+    padding-top: 20px;
 }
 
 /* my plans section */
@@ -157,7 +158,7 @@
     width: 1140px;
     height: 300px;
     left: 175px;
-    top: 2188px;
+    top: 2322px;
     
     background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
 }
